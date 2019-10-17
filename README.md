@@ -1,1 +1,1 @@
-ponimatno
+Ne yasnO!

@@ -1,13 +1,13 @@
-public class Racoon {
-    String Name;
+public class Raccoon {
+    String name;
     int age;
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
 
     public int getAge() {
@@ -27,5 +27,4 @@ public class Racoon {
     }
 
     double weight;
-
 }
